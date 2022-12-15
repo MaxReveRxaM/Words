@@ -1,4 +1,4 @@
-function printEnglish(params) {
+function printEnglish() {
 	console.log('english');
 }
 
